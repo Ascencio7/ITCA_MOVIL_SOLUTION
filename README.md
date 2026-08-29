@@ -5,8 +5,10 @@
 # ITCA MOVIL SOLUTION
 
 <picture>
-  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/052/141/832/original/johan-cediel-rodriguez-pixel-art-take-008.gif?1659036879?raw=true" width="200"/>
+  <img align="right" src="https://cdna.artstation.com/p/assets/images/images/052/141/832/original/johan-cediel-rodriguez-pixel-art-take-008.gif?1659036879?raw=true" width="200" style="margin-left: 24px; margin-bottom: 16px;"/>
 </picture>
+
+<br clear="right">
 
 # 📌 Descripción del proyecto
 
