@@ -45,7 +45,7 @@ Desarrollar una interfaz moderna y dinámica para promocionar el evento ITCA MOV
 - `images/` — imágenes del proyecto
 - `videos/` — videos del evento
 
-## ⚙️ Requisitos previos
+## Requisitos previos
 
 - PHP 8.0 o superior
 - Servidor local compatible con PHP
