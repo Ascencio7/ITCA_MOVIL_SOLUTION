@@ -303,6 +303,8 @@
                 <div class="footer-info">
                     <p class="footer-name">JONATHAN VLADIMIR ASCENCIO RAMOS <span>• 021523</span></p>
                     <p class="footer-name">RUTH ABIGAIL VAQUERANO MELARA <span>• 030723</span></p>
+                    <p class="footer-name">GISELA NICOLE VALLADARES POLANCO <span>• 062523</span></p>
+
                 </div>
             </div>
 
