@@ -8,7 +8,7 @@
   <img align="right" src="https://cdna.artstation.com/p/assets/images/images/052/141/832/original/johan-cediel-rodriguez-pixel-art-take-008.gif?1659036879?raw=true" width="200"/>
 </picture>
 
-## 📌 Descripción del proyecto
+# 📌 Descripción del proyecto
 
 Este proyecto es una landing page para el evento de innovación tecnológica **ITCA MOVIL SOLUTION**, diseñada para mostrar información del evento, la galería, videos, formularios interactivos y una calculadora de inscripción.
 
