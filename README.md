@@ -51,7 +51,7 @@ Desarrollar una interfaz moderna y dinámica para promocionar el evento ITCA MOV
 - Servidor local compatible con PHP
 - Navegador web moderno
 
-## ▶️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Abre la carpeta del proyecto en tu equipo.
 2. Entra a la carpeta raíz.
